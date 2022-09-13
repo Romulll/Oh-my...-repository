@@ -1,0 +1,7 @@
+function currency() {
+  let course = prompt('Введіть курс BTC', 0);
+  let cach = prompt('Введіть кількість доларів для обміну', 0);
+  alert('Ви можете придбати ' + cash / course + ' BTC');
+  return cash / course;
+}
+currency()
